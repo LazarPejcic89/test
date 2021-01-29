@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ovo je github fajl izmenjen
+=======
+Ovo je github fajl izmenjen opet
+>>>>>>> test-branch
